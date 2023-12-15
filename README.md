@@ -1,2 +1,2 @@
-# can-paltform
-This is a cancer patience community platform
+## Project-02:CAN Cancer Community Platform
+-This is a cancer patience community platform
